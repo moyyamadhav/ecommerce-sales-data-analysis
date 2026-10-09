@@ -1,0 +1,1251 @@
+Order_ID,Order_Date,Customer_ID,Vendor,Product_Name,Category,Unit_Price,Quantity,Total_Sales,Region,Country,Payment_Method,Refund_Status
+ORD10000,2025-10-16,CUST158,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,India,Net Banking,Completed
+ORD10001,2025-11-23,CUST380,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,United States,Credit Card,Completed
+ORD10002,2025-06-01,CUST409,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,India,PayPal,Completed
+ORD10003,2024-01-07,CUST182,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,India,Net Banking,Refunded
+ORD10004,2024-12-10,CUST153,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Germany,UPI,Completed
+ORD10005,2025-04-15,CUST375,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,5,750.0,Latin America,United States,UPI,Completed
+ORD10006,2025-09-25,CUST286,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United States,Net Banking,Completed
+ORD10007,2024-03-22,CUST220,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10008,2024-12-29,CUST208,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,Net Banking,Completed
+ORD10009,2024-09-07,CUST184,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Australia,UPI,Completed
+ORD10010,2024-02-27,CUST218,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10011,2025-08-03,CUST262,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,Australia,PayPal,Completed
+ORD10012,2024-05-22,CUST227,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10013,2025-02-12,CUST286,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,5,1600.0,Europe,Canada,PayPal,Completed
+ORD10014,2024-02-18,CUST157,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,Credit Card,Completed
+ORD10015,2025-09-02,CUST340,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Australia,Credit Card,Completed
+ORD10016,2025-07-03,CUST237,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Germany,PayPal,Completed
+ORD10017,2024-01-04,CUST235,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,North America,Australia,UPI,Completed
+ORD10018,2025-06-03,CUST412,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,Canada,Credit Card,Completed
+ORD10019,2025-05-15,CUST110,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Asia-Pacific,India,Credit Card,Completed
+ORD10020,2025-08-03,CUST141,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,North America,Canada,Net Banking,Completed
+ORD10021,2025-05-01,CUST382,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,India,Net Banking,Completed
+ORD10022,2025-02-12,CUST444,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United States,Net Banking,Completed
+ORD10023,2024-12-12,CUST111,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United States,Credit Card,Completed
+ORD10024,2024-03-01,CUST218,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10025,2025-05-12,CUST210,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,India,PayPal,Completed
+ORD10026,2024-07-13,CUST149,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10027,2024-02-25,CUST445,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,North America,United States,PayPal,Completed
+ORD10028,2024-04-21,CUST228,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,India,PayPal,Completed
+ORD10029,2025-04-18,CUST228,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Latin America,Canada,Credit Card,Completed
+ORD10030,2025-07-07,CUST108,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Europe,India,PayPal,Completed
+ORD10031,2024-08-06,CUST306,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,United Kingdom,UPI,Completed
+ORD10032,2025-04-10,CUST247,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,India,Net Banking,Completed
+ORD10033,2024-02-29,CUST397,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,United States,Credit Card,Completed
+ORD10034,2025-05-29,CUST372,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,India,Credit Card,Completed
+ORD10035,2025-11-22,CUST221,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,Credit Card,Completed
+ORD10036,2025-03-05,CUST437,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Germany,Net Banking,Completed
+ORD10037,2024-11-17,CUST223,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10038,2024-03-15,CUST105,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,United States,Net Banking,Completed
+ORD10039,2024-05-15,CUST279,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,Germany,Net Banking,Completed
+ORD10040,2025-07-10,CUST255,Adobe,Adobe Creative Cloud All Apps,Design,600.0,5,3000.0,North America,Australia,UPI,Completed
+ORD10041,2024-04-16,CUST169,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Australia,Net Banking,Completed
+ORD10042,2025-09-11,CUST208,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10043,2024-02-22,CUST148,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,United States,Credit Card,Completed
+ORD10044,2024-05-13,CUST427,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Canada,PayPal,Completed
+ORD10045,2024-04-24,CUST139,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,North America,Germany,Net Banking,Completed
+ORD10046,2024-02-12,CUST258,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,Germany,Net Banking,Completed
+ORD10047,2025-11-13,CUST153,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,Canada,Net Banking,Completed
+ORD10048,2024-08-30,CUST184,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,United States,Net Banking,Completed
+ORD10049,2024-12-06,CUST311,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Europe,Germany,Net Banking,Completed
+ORD10050,2024-04-20,CUST296,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,India,Net Banking,Completed
+ORD10051,2025-04-16,CUST280,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,India,Credit Card,Completed
+ORD10052,2025-02-12,CUST269,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10053,2025-07-03,CUST270,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,India,UPI,Completed
+ORD10054,2025-09-02,CUST323,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10055,2025-08-13,CUST198,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,Net Banking,Completed
+ORD10056,2024-03-12,CUST441,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Australia,UPI,Completed
+ORD10057,2025-11-13,CUST310,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Canada,Net Banking,Completed
+ORD10058,2025-11-11,CUST295,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,Canada,UPI,Completed
+ORD10059,2024-01-01,CUST256,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10060,2024-08-06,CUST362,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Australia,Credit Card,Completed
+ORD10061,2025-11-10,CUST425,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Australia,UPI,Completed
+ORD10062,2024-07-22,CUST176,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Canada,Credit Card,Completed
+ORD10063,2025-10-06,CUST395,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,United Kingdom,PayPal,Completed
+ORD10064,2025-11-02,CUST103,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,North America,United Kingdom,Net Banking,Completed
+ORD10065,2025-12-13,CUST366,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,United States,PayPal,Completed
+ORD10066,2025-04-20,CUST442,Adobe,Adobe Creative Cloud All Apps,Design,600.0,5,3000.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10067,2025-07-15,CUST329,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,United Kingdom,UPI,Completed
+ORD10068,2025-10-14,CUST242,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,Australia,Net Banking,Completed
+ORD10069,2024-03-20,CUST247,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10070,2024-08-24,CUST297,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United States,PayPal,Completed
+ORD10071,2025-07-09,CUST339,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United Kingdom,Credit Card,Completed
+ORD10072,2025-08-12,CUST295,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10073,2025-03-05,CUST376,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,United Kingdom,Net Banking,Completed
+ORD10074,2025-05-12,CUST115,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Australia,Net Banking,Completed
+ORD10075,2024-05-10,CUST419,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Canada,Credit Card,Completed
+ORD10076,2025-03-14,CUST170,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Germany,PayPal,Completed
+ORD10077,2025-04-10,CUST268,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,Germany,PayPal,Completed
+ORD10078,2024-03-24,CUST341,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,North America,Germany,Net Banking,Completed
+ORD10079,2025-10-29,CUST121,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,India,Credit Card,Completed
+ORD10080,2024-09-01,CUST165,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,United Kingdom,UPI,Completed
+ORD10081,2024-06-20,CUST411,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,North America,India,UPI,Completed
+ORD10082,2024-01-27,CUST260,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10083,2025-12-08,CUST422,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10084,2025-08-02,CUST122,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United States,UPI,Completed
+ORD10085,2025-03-06,CUST351,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10086,2025-03-21,CUST191,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10087,2025-08-29,CUST238,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,Germany,PayPal,Completed
+ORD10088,2025-04-20,CUST392,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,United States,PayPal,Completed
+ORD10089,2024-07-05,CUST350,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Germany,UPI,Completed
+ORD10090,2025-12-19,CUST242,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United States,Net Banking,Completed
+ORD10091,2025-05-15,CUST385,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Australia,PayPal,Completed
+ORD10092,2024-01-18,CUST148,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Germany,UPI,Completed
+ORD10093,2025-06-27,CUST277,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,5,1400.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10094,2024-09-14,CUST219,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10095,2025-05-10,CUST242,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10096,2025-01-04,CUST192,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Germany,Credit Card,Refunded
+ORD10097,2025-07-20,CUST250,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Latin America,United States,Credit Card,Completed
+ORD10098,2025-04-25,CUST346,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Germany,PayPal,Completed
+ORD10099,2024-03-07,CUST306,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,India,Net Banking,Completed
+ORD10100,2024-11-07,CUST144,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,Net Banking,Completed
+ORD10101,2025-01-24,CUST331,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Germany,Credit Card,Completed
+ORD10102,2024-04-11,CUST207,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,India,Net Banking,Completed
+ORD10103,2024-03-17,CUST181,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Germany,Credit Card,Completed
+ORD10104,2024-10-16,CUST333,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD10105,2025-07-11,CUST216,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,India,Credit Card,Completed
+ORD10106,2024-11-10,CUST405,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10107,2024-11-07,CUST307,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United Kingdom,Credit Card,Completed
+ORD10108,2025-03-18,CUST266,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,India,Credit Card,Refunded
+ORD10109,2025-11-19,CUST238,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United Kingdom,PayPal,Completed
+ORD10110,2024-07-04,CUST400,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United States,PayPal,Completed
+ORD10111,2024-12-07,CUST265,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Germany,PayPal,Completed
+ORD10112,2024-10-22,CUST440,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,United Kingdom,Credit Card,Completed
+ORD10113,2024-11-27,CUST160,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Australia,PayPal,Completed
+ORD10114,2024-07-11,CUST366,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Australia,PayPal,Completed
+ORD10115,2024-07-27,CUST237,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10116,2025-10-07,CUST412,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Germany,Credit Card,Completed
+ORD10117,2024-04-05,CUST216,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Latin America,United States,Net Banking,Completed
+ORD10118,2024-10-25,CUST361,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10119,2024-05-28,CUST297,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,3,960.0,Europe,United States,UPI,Completed
+ORD10120,2025-02-28,CUST275,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Germany,UPI,Completed
+ORD10121,2025-08-16,CUST438,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,Canada,PayPal,Completed
+ORD10122,2025-07-19,CUST379,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,Net Banking,Completed
+ORD10123,2024-08-27,CUST311,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,PayPal,Completed
+ORD10124,2025-11-10,CUST434,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,India,UPI,Completed
+ORD10125,2025-03-26,CUST152,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,North America,Australia,Net Banking,Completed
+ORD10126,2025-11-01,CUST180,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10127,2024-12-02,CUST446,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10128,2024-02-06,CUST417,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,India,Credit Card,Completed
+ORD10129,2024-04-10,CUST425,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Latin America,India,UPI,Completed
+ORD10130,2024-02-17,CUST267,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10131,2025-06-27,CUST311,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Europe,India,Net Banking,Completed
+ORD10132,2025-01-26,CUST418,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,India,PayPal,Completed
+ORD10133,2025-04-15,CUST231,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Germany,Net Banking,Completed
+ORD10134,2024-12-19,CUST401,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Australia,UPI,Completed
+ORD10135,2024-11-05,CUST202,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,India,PayPal,Completed
+ORD10136,2025-08-11,CUST252,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Germany,Credit Card,Completed
+ORD10137,2025-12-03,CUST126,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,India,UPI,Completed
+ORD10138,2024-07-13,CUST418,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,Australia,Credit Card,Completed
+ORD10139,2025-10-23,CUST121,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,Canada,UPI,Completed
+ORD10140,2024-04-02,CUST252,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,India,Net Banking,Completed
+ORD10141,2025-01-09,CUST372,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,Europe,Germany,PayPal,Refunded
+ORD10142,2024-10-29,CUST274,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,India,Net Banking,Completed
+ORD10143,2025-11-21,CUST304,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,United States,PayPal,Completed
+ORD10144,2025-07-03,CUST164,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10145,2025-01-15,CUST156,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,UPI,Completed
+ORD10146,2024-08-14,CUST432,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,UPI,Completed
+ORD10147,2024-04-29,CUST172,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10148,2025-07-04,CUST170,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Canada,Net Banking,Completed
+ORD10149,2025-11-01,CUST151,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Germany,Credit Card,Completed
+ORD10150,2024-08-10,CUST328,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Asia-Pacific,United States,UPI,Completed
+ORD10151,2025-10-22,CUST284,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United States,PayPal,Completed
+ORD10152,2024-08-05,CUST429,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United States,UPI,Completed
+ORD10153,2024-05-08,CUST390,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,Canada,Net Banking,Completed
+ORD10154,2024-08-26,CUST269,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Germany,Net Banking,Refunded
+ORD10155,2025-07-07,CUST229,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,India,Credit Card,Completed
+ORD10156,2024-08-31,CUST402,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10157,2025-06-22,CUST159,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Germany,Credit Card,Completed
+ORD10158,2024-08-14,CUST415,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10159,2025-05-05,CUST306,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,Australia,PayPal,Completed
+ORD10160,2024-03-23,CUST265,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Germany,UPI,Completed
+ORD10161,2025-09-03,CUST372,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,Credit Card,Completed
+ORD10162,2025-10-28,CUST383,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10163,2025-04-09,CUST305,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10164,2025-01-18,CUST179,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,North America,United States,Credit Card,Completed
+ORD10165,2024-04-08,CUST291,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Canada,UPI,Completed
+ORD10166,2025-02-24,CUST282,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,Australia,Credit Card,Refunded
+ORD10167,2025-09-06,CUST260,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,India,PayPal,Completed
+ORD10168,2024-04-20,CUST280,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Germany,Net Banking,Completed
+ORD10169,2025-07-28,CUST419,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,North America,Canada,UPI,Completed
+ORD10170,2024-10-06,CUST259,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,India,PayPal,Completed
+ORD10171,2025-10-10,CUST116,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,United Kingdom,PayPal,Completed
+ORD10172,2024-06-10,CUST290,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,United States,Net Banking,Completed
+ORD10173,2025-09-24,CUST126,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Australia,PayPal,Completed
+ORD10174,2025-03-28,CUST313,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Germany,PayPal,Completed
+ORD10175,2025-11-25,CUST448,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10176,2025-09-05,CUST129,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,India,UPI,Completed
+ORD10177,2024-05-02,CUST104,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,India,PayPal,Completed
+ORD10178,2024-08-23,CUST357,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,United States,PayPal,Completed
+ORD10179,2024-02-13,CUST324,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Germany,PayPal,Completed
+ORD10180,2025-10-17,CUST314,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Germany,Net Banking,Completed
+ORD10181,2025-09-24,CUST336,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,United States,PayPal,Completed
+ORD10182,2024-09-06,CUST324,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United Kingdom,UPI,Completed
+ORD10183,2024-08-14,CUST271,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Canada,Net Banking,Completed
+ORD10184,2024-12-23,CUST280,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Europe,India,Credit Card,Completed
+ORD10185,2024-07-21,CUST189,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,India,PayPal,Completed
+ORD10186,2025-07-31,CUST397,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,Australia,UPI,Completed
+ORD10187,2024-03-10,CUST341,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10188,2024-03-16,CUST259,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Germany,UPI,Completed
+ORD10189,2024-04-02,CUST415,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Canada,Credit Card,Completed
+ORD10190,2025-08-08,CUST434,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,Net Banking,Refunded
+ORD10191,2025-04-06,CUST153,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10192,2024-06-25,CUST121,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,Canada,Net Banking,Completed
+ORD10193,2024-10-16,CUST299,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,Australia,UPI,Completed
+ORD10194,2024-04-06,CUST386,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD10195,2025-08-19,CUST440,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,3,960.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10196,2024-03-27,CUST259,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,India,Credit Card,Completed
+ORD10197,2025-03-09,CUST361,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,India,Net Banking,Completed
+ORD10198,2025-05-12,CUST199,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,5,1600.0,Europe,United States,UPI,Completed
+ORD10199,2024-04-13,CUST360,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Australia,UPI,Completed
+ORD10200,2025-09-24,CUST168,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,India,Net Banking,Completed
+ORD10201,2024-02-14,CUST311,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,United Kingdom,UPI,Completed
+ORD10202,2025-04-04,CUST220,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,India,UPI,Completed
+ORD10203,2025-08-07,CUST326,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,Canada,PayPal,Refunded
+ORD10204,2024-07-23,CUST410,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,North America,Australia,PayPal,Completed
+ORD10205,2025-07-21,CUST153,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,Germany,Credit Card,Completed
+ORD10206,2024-10-06,CUST331,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United States,Net Banking,Completed
+ORD10207,2024-12-23,CUST114,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,PayPal,Refunded
+ORD10208,2025-01-18,CUST215,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Australia,UPI,Completed
+ORD10209,2024-05-20,CUST120,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,Latin America,Australia,Net Banking,Completed
+ORD10210,2025-04-25,CUST330,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United States,UPI,Completed
+ORD10211,2024-06-02,CUST381,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United States,UPI,Completed
+ORD10212,2024-05-04,CUST125,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United States,Credit Card,Completed
+ORD10213,2025-05-26,CUST406,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Australia,Net Banking,Completed
+ORD10214,2024-01-02,CUST415,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,India,Credit Card,Completed
+ORD10215,2025-01-04,CUST135,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United Kingdom,PayPal,Completed
+ORD10216,2025-01-31,CUST292,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Asia-Pacific,United States,UPI,Completed
+ORD10217,2025-11-03,CUST422,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,India,Credit Card,Completed
+ORD10218,2024-12-12,CUST430,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,Australia,PayPal,Completed
+ORD10219,2024-05-18,CUST133,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Latin America,United States,UPI,Completed
+ORD10220,2024-07-23,CUST122,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,Latin America,Canada,PayPal,Completed
+ORD10221,2025-10-24,CUST198,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Australia,UPI,Completed
+ORD10222,2025-01-11,CUST324,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,Germany,Net Banking,Completed
+ORD10223,2025-05-24,CUST289,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Australia,PayPal,Completed
+ORD10224,2025-09-08,CUST193,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United States,UPI,Completed
+ORD10225,2024-11-09,CUST329,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Europe,Australia,PayPal,Completed
+ORD10226,2024-02-13,CUST281,Adobe,Adobe Creative Cloud All Apps,Design,600.0,5,3000.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10227,2025-10-14,CUST308,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United States,Net Banking,Completed
+ORD10228,2025-11-25,CUST325,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,Australia,UPI,Completed
+ORD10229,2025-08-03,CUST117,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Germany,UPI,Completed
+ORD10230,2024-03-19,CUST394,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Germany,UPI,Completed
+ORD10231,2024-04-26,CUST114,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Canada,Credit Card,Completed
+ORD10232,2024-09-23,CUST329,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,5,1600.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10233,2024-05-18,CUST138,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United States,UPI,Completed
+ORD10234,2024-03-07,CUST382,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,India,Net Banking,Completed
+ORD10235,2025-06-04,CUST215,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,5,750.0,Europe,India,PayPal,Completed
+ORD10236,2025-07-21,CUST394,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Canada,Credit Card,Completed
+ORD10237,2025-02-11,CUST346,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Canada,Credit Card,Completed
+ORD10238,2024-11-20,CUST429,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,India,Net Banking,Completed
+ORD10239,2024-05-12,CUST322,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,North America,United States,Net Banking,Completed
+ORD10240,2024-06-14,CUST266,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,United States,UPI,Completed
+ORD10241,2025-07-18,CUST241,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,Canada,Net Banking,Completed
+ORD10242,2025-08-17,CUST179,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10243,2024-01-30,CUST142,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD10244,2025-03-02,CUST417,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Australia,UPI,Completed
+ORD10245,2025-12-02,CUST308,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,India,PayPal,Completed
+ORD10246,2025-04-20,CUST205,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Australia,UPI,Completed
+ORD10247,2024-12-19,CUST305,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,North America,Germany,Net Banking,Completed
+ORD10248,2024-09-30,CUST331,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,Germany,PayPal,Completed
+ORD10249,2025-03-04,CUST228,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Asia-Pacific,Canada,UPI,Completed
+ORD10250,2024-06-12,CUST356,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10251,2025-02-06,CUST359,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Europe,Canada,UPI,Completed
+ORD10252,2024-10-15,CUST354,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,Germany,Credit Card,Completed
+ORD10253,2025-03-17,CUST169,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,Germany,Credit Card,Completed
+ORD10254,2025-08-06,CUST388,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,United States,PayPal,Completed
+ORD10255,2025-07-17,CUST244,Tableau,Tableau Creator Annual,Analytics,840.0,5,4200.0,North America,India,Credit Card,Completed
+ORD10256,2024-12-13,CUST386,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,Canada,PayPal,Completed
+ORD10257,2024-02-16,CUST120,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,Canada,PayPal,Completed
+ORD10258,2025-06-11,CUST172,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,Asia-Pacific,India,PayPal,Refunded
+ORD10259,2024-11-02,CUST404,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Australia,UPI,Completed
+ORD10260,2024-01-18,CUST289,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,Canada,UPI,Completed
+ORD10261,2025-12-05,CUST423,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD10262,2025-08-20,CUST346,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,India,Net Banking,Completed
+ORD10263,2025-12-18,CUST157,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD10264,2024-07-27,CUST311,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,Australia,Credit Card,Completed
+ORD10265,2025-06-15,CUST207,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Canada,PayPal,Completed
+ORD10266,2024-06-26,CUST336,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Australia,UPI,Completed
+ORD10267,2024-07-15,CUST227,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Germany,UPI,Completed
+ORD10268,2025-12-07,CUST351,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD10269,2025-07-10,CUST295,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Germany,Credit Card,Completed
+ORD10270,2024-03-21,CUST278,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,India,Net Banking,Completed
+ORD10271,2024-10-04,CUST388,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,Net Banking,Completed
+ORD10272,2025-11-16,CUST372,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,United States,PayPal,Completed
+ORD10273,2025-04-28,CUST152,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,Canada,Net Banking,Completed
+ORD10274,2025-05-02,CUST345,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Germany,UPI,Completed
+ORD10275,2024-04-01,CUST434,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,India,PayPal,Completed
+ORD10276,2024-06-29,CUST119,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,India,UPI,Completed
+ORD10277,2024-01-10,CUST253,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Germany,PayPal,Refunded
+ORD10278,2025-07-10,CUST369,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Canada,PayPal,Completed
+ORD10279,2024-04-25,CUST270,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD10280,2024-12-11,CUST252,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Europe,India,PayPal,Completed
+ORD10281,2025-06-11,CUST268,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,India,Net Banking,Completed
+ORD10282,2024-09-11,CUST104,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Germany,UPI,Completed
+ORD10283,2025-08-09,CUST106,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,United States,Credit Card,Completed
+ORD10284,2024-06-12,CUST308,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10285,2024-10-29,CUST289,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United Kingdom,Net Banking,Completed
+ORD10286,2025-09-12,CUST292,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,Canada,Net Banking,Completed
+ORD10287,2025-11-27,CUST406,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,Canada,UPI,Completed
+ORD10288,2025-07-31,CUST158,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,Canada,Net Banking,Completed
+ORD10289,2025-06-16,CUST327,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,United States,PayPal,Completed
+ORD10290,2025-04-09,CUST168,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Canada,PayPal,Completed
+ORD10291,2024-11-11,CUST112,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Australia,Net Banking,Completed
+ORD10292,2024-02-16,CUST317,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,United States,PayPal,Completed
+ORD10293,2025-02-22,CUST193,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Germany,PayPal,Completed
+ORD10294,2025-01-21,CUST293,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,Australia,UPI,Completed
+ORD10295,2025-07-04,CUST302,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United States,Credit Card,Refunded
+ORD10296,2025-04-19,CUST445,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,India,Net Banking,Completed
+ORD10297,2024-06-07,CUST242,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,3,960.0,North America,United States,PayPal,Completed
+ORD10298,2024-01-17,CUST224,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,United Kingdom,Credit Card,Completed
+ORD10299,2024-02-15,CUST306,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,United States,Net Banking,Completed
+ORD10300,2024-10-23,CUST220,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Asia-Pacific,Canada,UPI,Completed
+ORD10301,2024-05-26,CUST439,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD10302,2025-08-28,CUST190,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Latin America,United States,UPI,Completed
+ORD10303,2025-11-18,CUST296,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10304,2024-07-07,CUST376,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Germany,Net Banking,Completed
+ORD10305,2024-02-29,CUST388,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Europe,United Kingdom,Net Banking,Completed
+ORD10306,2024-12-04,CUST432,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10307,2025-01-21,CUST445,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,India,Net Banking,Completed
+ORD10308,2024-12-06,CUST256,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,Australia,Credit Card,Completed
+ORD10309,2025-05-05,CUST225,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United Kingdom,Net Banking,Completed
+ORD10310,2024-10-16,CUST295,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,UPI,Completed
+ORD10311,2025-05-24,CUST339,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,Germany,Net Banking,Completed
+ORD10312,2025-02-27,CUST124,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Europe,United States,UPI,Completed
+ORD10313,2025-08-21,CUST397,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,India,UPI,Completed
+ORD10314,2025-08-06,CUST226,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,PayPal,Refunded
+ORD10315,2025-10-19,CUST352,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,Net Banking,Completed
+ORD10316,2025-05-15,CUST195,Adobe,Adobe Creative Cloud All Apps,Design,600.0,5,3000.0,North America,Canada,Credit Card,Completed
+ORD10317,2024-03-17,CUST443,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,India,Net Banking,Completed
+ORD10318,2024-06-03,CUST105,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,United States,PayPal,Completed
+ORD10319,2024-01-17,CUST104,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United States,UPI,Completed
+ORD10320,2024-10-20,CUST109,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,India,Credit Card,Completed
+ORD10321,2025-06-20,CUST177,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Germany,UPI,Completed
+ORD10322,2024-03-21,CUST292,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Australia,Net Banking,Completed
+ORD10323,2024-03-23,CUST435,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,United States,PayPal,Completed
+ORD10324,2025-07-19,CUST344,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United States,PayPal,Completed
+ORD10325,2025-10-22,CUST270,Adobe,Adobe Creative Cloud All Apps,Design,600.0,5,3000.0,North America,Canada,Credit Card,Completed
+ORD10326,2025-12-09,CUST391,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Australia,UPI,Completed
+ORD10327,2025-07-31,CUST437,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10328,2025-02-11,CUST140,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Canada,PayPal,Completed
+ORD10329,2025-07-07,CUST270,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Australia,Credit Card,Completed
+ORD10330,2024-12-20,CUST128,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Germany,PayPal,Refunded
+ORD10331,2024-11-30,CUST116,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10332,2025-01-19,CUST322,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,United States,UPI,Completed
+ORD10333,2024-03-16,CUST143,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Australia,PayPal,Completed
+ORD10334,2024-04-19,CUST147,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Latin America,Germany,UPI,Completed
+ORD10335,2024-03-30,CUST196,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United States,Credit Card,Completed
+ORD10336,2025-07-21,CUST148,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10337,2025-02-01,CUST144,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Europe,Canada,Net Banking,Completed
+ORD10338,2024-06-22,CUST172,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,India,Credit Card,Completed
+ORD10339,2024-10-09,CUST316,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Germany,UPI,Completed
+ORD10340,2025-10-02,CUST354,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United States,Net Banking,Completed
+ORD10341,2025-02-09,CUST271,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10342,2025-10-28,CUST405,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United Kingdom,UPI,Completed
+ORD10343,2025-02-11,CUST264,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,Canada,Net Banking,Completed
+ORD10344,2024-10-14,CUST302,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Canada,Net Banking,Completed
+ORD10345,2025-07-17,CUST114,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United Kingdom,UPI,Completed
+ORD10346,2024-03-11,CUST310,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,India,UPI,Completed
+ORD10347,2025-03-09,CUST294,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Canada,PayPal,Completed
+ORD10348,2025-12-09,CUST315,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10349,2024-09-11,CUST437,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,PayPal,Refunded
+ORD10350,2024-12-05,CUST321,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,India,Net Banking,Completed
+ORD10351,2025-02-04,CUST338,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Europe,Germany,Credit Card,Completed
+ORD10352,2024-10-29,CUST313,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,Germany,UPI,Completed
+ORD10353,2024-07-30,CUST367,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,United Kingdom,PayPal,Completed
+ORD10354,2024-11-03,CUST123,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,North America,Germany,Credit Card,Completed
+ORD10355,2024-06-17,CUST225,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Germany,PayPal,Refunded
+ORD10356,2024-08-25,CUST308,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United Kingdom,Credit Card,Completed
+ORD10357,2024-07-21,CUST331,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Australia,Net Banking,Completed
+ORD10358,2025-12-21,CUST133,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Germany,UPI,Completed
+ORD10359,2024-04-26,CUST235,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10360,2025-08-24,CUST159,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Canada,Net Banking,Completed
+ORD10361,2024-10-31,CUST415,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Germany,Credit Card,Completed
+ORD10362,2024-04-29,CUST194,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10363,2025-03-09,CUST196,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,Net Banking,Completed
+ORD10364,2024-05-23,CUST196,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,Germany,Credit Card,Completed
+ORD10365,2024-07-18,CUST297,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United Kingdom,PayPal,Completed
+ORD10366,2025-03-30,CUST351,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,India,UPI,Completed
+ORD10367,2024-08-18,CUST376,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Canada,PayPal,Completed
+ORD10368,2024-04-25,CUST394,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10369,2025-03-27,CUST380,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,5,1600.0,North America,Australia,Net Banking,Completed
+ORD10370,2024-02-03,CUST331,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,United Kingdom,Credit Card,Completed
+ORD10371,2024-08-30,CUST208,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10372,2024-05-22,CUST206,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Canada,UPI,Completed
+ORD10373,2025-09-03,CUST376,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Germany,UPI,Refunded
+ORD10374,2025-06-10,CUST448,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,United States,UPI,Completed
+ORD10375,2024-05-09,CUST168,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,India,PayPal,Completed
+ORD10376,2025-08-14,CUST424,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United Kingdom,Credit Card,Completed
+ORD10377,2024-04-05,CUST307,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10378,2024-01-03,CUST148,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,Asia-Pacific,United States,PayPal,Completed
+ORD10379,2025-03-15,CUST209,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,Net Banking,Completed
+ORD10380,2025-05-11,CUST276,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,United States,PayPal,Completed
+ORD10381,2024-06-10,CUST326,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,India,Net Banking,Completed
+ORD10382,2024-11-05,CUST182,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Asia-Pacific,United States,UPI,Completed
+ORD10383,2025-01-15,CUST441,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Australia,UPI,Completed
+ORD10384,2024-08-27,CUST320,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United States,Net Banking,Completed
+ORD10385,2024-05-15,CUST404,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United States,Credit Card,Completed
+ORD10386,2024-05-03,CUST317,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,India,PayPal,Completed
+ORD10387,2024-04-14,CUST153,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,India,PayPal,Completed
+ORD10388,2024-05-16,CUST429,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,Net Banking,Completed
+ORD10389,2024-08-06,CUST422,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Canada,PayPal,Completed
+ORD10390,2024-03-29,CUST152,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,Germany,PayPal,Completed
+ORD10391,2024-05-23,CUST227,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Canada,UPI,Completed
+ORD10392,2025-12-08,CUST114,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,India,Net Banking,Completed
+ORD10393,2024-10-29,CUST431,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,United Kingdom,PayPal,Completed
+ORD10394,2025-05-26,CUST427,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Germany,UPI,Completed
+ORD10395,2025-08-05,CUST316,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United Kingdom,Credit Card,Completed
+ORD10396,2024-03-10,CUST108,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,United Kingdom,UPI,Completed
+ORD10397,2025-05-28,CUST313,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,Australia,Net Banking,Completed
+ORD10398,2024-11-13,CUST141,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,Europe,Canada,UPI,Completed
+ORD10399,2025-10-11,CUST433,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10400,2024-09-01,CUST130,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United States,PayPal,Completed
+ORD10401,2024-02-26,CUST259,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,United States,Credit Card,Completed
+ORD10402,2025-12-19,CUST106,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Canada,UPI,Completed
+ORD10403,2024-05-09,CUST238,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,Germany,PayPal,Completed
+ORD10404,2024-03-06,CUST235,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,North America,United Kingdom,PayPal,Completed
+ORD10405,2024-02-26,CUST356,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,India,UPI,Completed
+ORD10406,2025-08-10,CUST446,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United States,Credit Card,Completed
+ORD10407,2025-04-28,CUST287,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Europe,United States,PayPal,Completed
+ORD10408,2024-09-11,CUST314,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,UPI,Completed
+ORD10409,2025-11-20,CUST127,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,United Kingdom,Credit Card,Completed
+ORD10410,2024-10-16,CUST260,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,UPI,Completed
+ORD10411,2025-07-31,CUST256,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Germany,PayPal,Refunded
+ORD10412,2024-07-19,CUST380,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Europe,United States,PayPal,Completed
+ORD10413,2025-07-08,CUST278,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,Germany,Credit Card,Completed
+ORD10414,2025-01-20,CUST258,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United Kingdom,PayPal,Refunded
+ORD10415,2024-05-25,CUST244,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,Canada,PayPal,Completed
+ORD10416,2025-01-16,CUST335,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,Net Banking,Completed
+ORD10417,2025-02-07,CUST139,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Australia,Net Banking,Completed
+ORD10418,2024-09-24,CUST262,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10419,2024-03-17,CUST204,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,North America,India,Credit Card,Completed
+ORD10420,2025-04-22,CUST261,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,PayPal,Completed
+ORD10421,2024-09-28,CUST162,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10422,2024-12-01,CUST176,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10423,2024-09-23,CUST190,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Latin America,Canada,Net Banking,Completed
+ORD10424,2024-04-14,CUST172,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,India,Net Banking,Completed
+ORD10425,2025-01-16,CUST423,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,United States,Credit Card,Refunded
+ORD10426,2024-07-21,CUST431,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,Germany,Credit Card,Completed
+ORD10427,2025-04-17,CUST126,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,3,960.0,Latin America,Australia,PayPal,Completed
+ORD10428,2025-01-26,CUST450,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,India,UPI,Completed
+ORD10429,2024-06-01,CUST118,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Australia,UPI,Completed
+ORD10430,2025-07-17,CUST346,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,India,PayPal,Completed
+ORD10431,2025-06-22,CUST228,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,North America,United Kingdom,UPI,Completed
+ORD10432,2025-05-11,CUST277,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Germany,Net Banking,Completed
+ORD10433,2025-09-03,CUST213,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,United States,PayPal,Completed
+ORD10434,2025-08-21,CUST220,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,Germany,Credit Card,Completed
+ORD10435,2024-08-12,CUST395,Tableau,Tableau Creator Annual,Analytics,840.0,5,4200.0,Latin America,Germany,Net Banking,Completed
+ORD10436,2025-08-29,CUST263,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10437,2024-12-26,CUST391,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United Kingdom,UPI,Completed
+ORD10438,2024-02-08,CUST147,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United States,PayPal,Completed
+ORD10439,2025-09-20,CUST204,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Germany,Credit Card,Completed
+ORD10440,2025-08-23,CUST173,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United States,UPI,Completed
+ORD10441,2025-11-09,CUST303,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Germany,Net Banking,Refunded
+ORD10442,2025-03-23,CUST428,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Australia,UPI,Completed
+ORD10443,2025-08-26,CUST190,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,Net Banking,Completed
+ORD10444,2025-12-19,CUST394,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,India,UPI,Completed
+ORD10445,2025-09-18,CUST214,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,India,UPI,Completed
+ORD10446,2024-08-31,CUST278,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Australia,UPI,Completed
+ORD10447,2024-09-28,CUST208,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD10448,2024-02-19,CUST298,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,United Kingdom,PayPal,Completed
+ORD10449,2024-12-25,CUST380,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Canada,Net Banking,Completed
+ORD10450,2024-03-16,CUST118,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United States,Credit Card,Completed
+ORD10451,2025-01-19,CUST183,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Germany,PayPal,Completed
+ORD10452,2025-03-17,CUST435,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,India,Credit Card,Completed
+ORD10453,2024-07-29,CUST198,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,Australia,UPI,Completed
+ORD10454,2024-04-08,CUST126,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,India,Credit Card,Completed
+ORD10455,2025-03-13,CUST145,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,India,Credit Card,Completed
+ORD10456,2024-06-23,CUST427,Datadog,Datadog Pro Annual,DevOps,450.0,5,2250.0,Latin America,United States,UPI,Completed
+ORD10457,2025-04-27,CUST351,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,India,UPI,Completed
+ORD10458,2025-01-13,CUST196,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United Kingdom,UPI,Completed
+ORD10459,2024-10-02,CUST389,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,United States,UPI,Completed
+ORD10460,2025-02-27,CUST402,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,PayPal,Refunded
+ORD10461,2025-12-04,CUST344,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,Germany,Credit Card,Completed
+ORD10462,2024-02-05,CUST358,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,Europe,United States,PayPal,Completed
+ORD10463,2024-06-20,CUST209,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,United Kingdom,Credit Card,Refunded
+ORD10464,2025-03-21,CUST204,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD10465,2025-07-23,CUST304,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10466,2024-01-13,CUST420,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United States,PayPal,Completed
+ORD10467,2025-08-03,CUST402,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,North America,United States,Credit Card,Completed
+ORD10468,2025-07-02,CUST277,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Canada,PayPal,Completed
+ORD10469,2024-10-09,CUST307,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United States,PayPal,Completed
+ORD10470,2024-12-05,CUST222,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD10471,2024-11-06,CUST260,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,India,Net Banking,Completed
+ORD10472,2025-03-29,CUST265,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,India,PayPal,Completed
+ORD10473,2025-02-20,CUST349,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10474,2025-06-02,CUST307,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,North America,India,Net Banking,Completed
+ORD10475,2024-07-24,CUST130,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,Germany,Net Banking,Completed
+ORD10476,2025-04-20,CUST359,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Australia,Credit Card,Completed
+ORD10477,2025-05-15,CUST405,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Canada,UPI,Completed
+ORD10478,2024-09-21,CUST147,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,India,Net Banking,Completed
+ORD10479,2025-10-24,CUST216,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Canada,Credit Card,Completed
+ORD10480,2025-11-29,CUST105,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Europe,Canada,Credit Card,Completed
+ORD10481,2025-09-14,CUST257,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10482,2025-04-15,CUST230,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,Credit Card,Completed
+ORD10483,2025-11-09,CUST292,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD10484,2024-12-10,CUST242,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Germany,UPI,Completed
+ORD10485,2025-06-13,CUST224,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,Australia,UPI,Completed
+ORD10486,2024-01-27,CUST436,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,5,1400.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10487,2024-02-06,CUST399,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,Europe,Germany,Net Banking,Completed
+ORD10488,2025-10-15,CUST344,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,India,Net Banking,Completed
+ORD10489,2025-04-27,CUST166,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Australia,UPI,Completed
+ORD10490,2024-08-15,CUST282,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10491,2025-08-22,CUST251,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,United States,Credit Card,Completed
+ORD10492,2024-07-18,CUST357,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,Canada,UPI,Completed
+ORD10493,2024-06-03,CUST171,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,India,UPI,Completed
+ORD10494,2024-07-03,CUST142,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Germany,Credit Card,Completed
+ORD10495,2024-10-07,CUST208,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Europe,United Kingdom,Credit Card,Completed
+ORD10496,2025-03-20,CUST425,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United Kingdom,Credit Card,Completed
+ORD10497,2024-07-23,CUST292,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,United States,Credit Card,Completed
+ORD10498,2024-09-11,CUST216,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Asia-Pacific,India,Credit Card,Completed
+ORD10499,2025-08-25,CUST257,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,Germany,UPI,Completed
+ORD10500,2025-06-16,CUST406,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Germany,PayPal,Completed
+ORD10501,2024-07-11,CUST185,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,India,Net Banking,Completed
+ORD10502,2024-01-23,CUST402,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10503,2025-10-17,CUST231,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Canada,Credit Card,Completed
+ORD10504,2025-10-31,CUST111,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,United Kingdom,PayPal,Completed
+ORD10505,2024-09-15,CUST343,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Germany,PayPal,Completed
+ORD10506,2025-11-09,CUST367,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United Kingdom,Credit Card,Completed
+ORD10507,2025-09-24,CUST161,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,United Kingdom,Net Banking,Completed
+ORD10508,2024-09-26,CUST368,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Germany,Net Banking,Completed
+ORD10509,2025-05-23,CUST207,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Asia-Pacific,India,Credit Card,Completed
+ORD10510,2024-04-01,CUST157,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,India,Credit Card,Completed
+ORD10511,2024-03-17,CUST152,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Germany,UPI,Completed
+ORD10512,2024-04-12,CUST190,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Germany,UPI,Completed
+ORD10513,2024-04-28,CUST149,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,North America,United States,Net Banking,Completed
+ORD10514,2024-06-23,CUST269,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10515,2024-12-16,CUST194,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Germany,PayPal,Completed
+ORD10516,2025-05-04,CUST316,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,United States,Net Banking,Completed
+ORD10517,2024-03-01,CUST182,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Canada,PayPal,Completed
+ORD10518,2025-01-23,CUST284,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United Kingdom,PayPal,Completed
+ORD10519,2025-02-25,CUST326,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United States,Net Banking,Refunded
+ORD10520,2025-11-16,CUST274,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United Kingdom,Net Banking,Completed
+ORD10521,2025-11-10,CUST447,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United States,Net Banking,Completed
+ORD10522,2025-04-25,CUST354,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Germany,Net Banking,Completed
+ORD10523,2024-10-11,CUST126,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10524,2025-03-30,CUST394,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United Kingdom,UPI,Completed
+ORD10525,2025-05-24,CUST435,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,United States,Credit Card,Completed
+ORD10526,2025-09-10,CUST417,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Australia,PayPal,Refunded
+ORD10527,2025-01-07,CUST128,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Germany,PayPal,Completed
+ORD10528,2025-01-07,CUST332,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United States,UPI,Completed
+ORD10529,2025-10-10,CUST250,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United States,Net Banking,Completed
+ORD10530,2025-02-23,CUST155,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United States,PayPal,Completed
+ORD10531,2024-07-14,CUST274,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,North America,Australia,Credit Card,Completed
+ORD10532,2025-04-06,CUST335,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United Kingdom,Credit Card,Completed
+ORD10533,2024-02-19,CUST384,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,Canada,Net Banking,Completed
+ORD10534,2024-06-26,CUST166,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10535,2025-09-15,CUST228,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10536,2024-05-21,CUST312,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,Australia,UPI,Completed
+ORD10537,2025-07-20,CUST424,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Australia,UPI,Completed
+ORD10538,2024-05-15,CUST433,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10539,2025-07-29,CUST346,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Australia,UPI,Completed
+ORD10540,2025-03-08,CUST107,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,India,Credit Card,Completed
+ORD10541,2024-07-23,CUST237,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,Australia,UPI,Completed
+ORD10542,2024-03-04,CUST252,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,North America,Germany,PayPal,Completed
+ORD10543,2025-11-22,CUST388,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,India,UPI,Completed
+ORD10544,2024-02-18,CUST296,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10545,2024-09-14,CUST204,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,India,UPI,Completed
+ORD10546,2025-07-13,CUST409,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,Germany,PayPal,Completed
+ORD10547,2025-11-30,CUST139,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,3,960.0,North America,United Kingdom,Credit Card,Completed
+ORD10548,2025-07-23,CUST236,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,United States,UPI,Completed
+ORD10549,2024-06-07,CUST121,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,3,960.0,North America,Australia,UPI,Completed
+ORD10550,2025-08-09,CUST382,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Canada,Net Banking,Refunded
+ORD10551,2025-06-17,CUST135,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Canada,PayPal,Completed
+ORD10552,2024-08-14,CUST210,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Germany,Net Banking,Refunded
+ORD10553,2025-09-25,CUST372,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,5,1400.0,North America,United States,UPI,Completed
+ORD10554,2025-10-19,CUST415,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Australia,UPI,Completed
+ORD10555,2024-04-26,CUST298,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United States,UPI,Completed
+ORD10556,2025-06-04,CUST329,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Germany,Credit Card,Completed
+ORD10557,2024-06-20,CUST376,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,India,Net Banking,Completed
+ORD10558,2025-03-10,CUST154,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Australia,Credit Card,Completed
+ORD10559,2024-06-06,CUST113,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,United States,Credit Card,Completed
+ORD10560,2024-09-14,CUST386,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,Germany,PayPal,Completed
+ORD10561,2025-10-07,CUST308,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Australia,Credit Card,Completed
+ORD10562,2025-10-18,CUST417,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,North America,Australia,Credit Card,Completed
+ORD10563,2025-05-29,CUST155,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10564,2025-03-24,CUST296,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,United Kingdom,Net Banking,Completed
+ORD10565,2024-05-19,CUST301,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD10566,2025-10-25,CUST292,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United States,Credit Card,Completed
+ORD10567,2025-09-02,CUST302,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Germany,Net Banking,Completed
+ORD10568,2024-12-18,CUST209,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Europe,India,Net Banking,Completed
+ORD10569,2024-09-15,CUST200,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Canada,PayPal,Completed
+ORD10570,2024-03-15,CUST249,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,India,PayPal,Refunded
+ORD10571,2024-12-31,CUST166,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,Germany,Credit Card,Completed
+ORD10572,2024-11-21,CUST349,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD10573,2025-01-08,CUST262,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,Net Banking,Completed
+ORD10574,2025-10-18,CUST324,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,Australia,UPI,Completed
+ORD10575,2025-04-18,CUST329,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,Canada,Credit Card,Completed
+ORD10576,2025-09-13,CUST142,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Canada,Net Banking,Completed
+ORD10577,2025-10-03,CUST140,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,Credit Card,Completed
+ORD10578,2025-08-15,CUST308,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Canada,UPI,Completed
+ORD10579,2025-07-06,CUST342,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD10580,2025-08-26,CUST249,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,United Kingdom,UPI,Completed
+ORD10581,2025-11-09,CUST223,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Europe,Canada,Net Banking,Completed
+ORD10582,2024-07-02,CUST390,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Europe,Australia,PayPal,Completed
+ORD10583,2024-02-11,CUST213,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Germany,UPI,Completed
+ORD10584,2025-11-15,CUST206,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10585,2024-02-17,CUST121,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Australia,UPI,Completed
+ORD10586,2025-08-06,CUST190,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10587,2025-01-20,CUST215,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10588,2024-01-07,CUST357,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United States,UPI,Completed
+ORD10589,2024-07-10,CUST181,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Australia,Net Banking,Completed
+ORD10590,2024-12-04,CUST159,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,India,Net Banking,Completed
+ORD10591,2025-02-24,CUST112,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,India,Credit Card,Completed
+ORD10592,2024-05-30,CUST129,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,Canada,PayPal,Completed
+ORD10593,2025-07-31,CUST427,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10594,2025-04-27,CUST347,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,Net Banking,Completed
+ORD10595,2024-07-05,CUST420,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Australia,UPI,Completed
+ORD10596,2025-09-02,CUST403,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,India,Credit Card,Completed
+ORD10597,2025-06-19,CUST359,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Canada,Credit Card,Completed
+ORD10598,2025-09-21,CUST408,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,North America,United States,PayPal,Completed
+ORD10599,2025-09-09,CUST377,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Canada,PayPal,Completed
+ORD10600,2024-02-14,CUST372,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United Kingdom,UPI,Completed
+ORD10601,2025-12-14,CUST395,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD10602,2024-03-26,CUST246,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,Germany,Net Banking,Completed
+ORD10603,2024-01-08,CUST396,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United Kingdom,Net Banking,Completed
+ORD10604,2024-11-19,CUST310,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Australia,UPI,Completed
+ORD10605,2025-07-02,CUST317,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10606,2025-02-27,CUST383,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Germany,PayPal,Completed
+ORD10607,2024-11-10,CUST396,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,Australia,Net Banking,Completed
+ORD10608,2025-11-06,CUST161,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United States,Net Banking,Completed
+ORD10609,2024-12-12,CUST382,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,North America,India,PayPal,Refunded
+ORD10610,2024-01-06,CUST147,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,United States,Credit Card,Completed
+ORD10611,2025-01-14,CUST141,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United Kingdom,UPI,Completed
+ORD10612,2025-09-03,CUST130,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,United Kingdom,Credit Card,Completed
+ORD10613,2025-11-03,CUST366,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Canada,Net Banking,Completed
+ORD10614,2025-01-03,CUST223,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United States,UPI,Completed
+ORD10615,2024-12-27,CUST443,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,Credit Card,Completed
+ORD10616,2024-03-11,CUST147,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Germany,UPI,Completed
+ORD10617,2024-07-18,CUST333,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,PayPal,Completed
+ORD10618,2025-07-26,CUST138,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Canada,UPI,Completed
+ORD10619,2025-08-11,CUST229,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Canada,PayPal,Completed
+ORD10620,2024-12-13,CUST335,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United Kingdom,Credit Card,Completed
+ORD10621,2025-01-26,CUST425,Tableau,Tableau Creator Annual,Analytics,840.0,5,4200.0,Europe,Germany,PayPal,Refunded
+ORD10622,2025-06-12,CUST375,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,India,UPI,Completed
+ORD10623,2025-11-20,CUST276,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United Kingdom,UPI,Completed
+ORD10624,2025-08-10,CUST238,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,3,960.0,Europe,United Kingdom,Net Banking,Completed
+ORD10625,2024-09-04,CUST236,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,Canada,UPI,Completed
+ORD10626,2024-04-19,CUST162,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,Canada,Credit Card,Completed
+ORD10627,2025-07-08,CUST122,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10628,2025-06-07,CUST244,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,United States,PayPal,Completed
+ORD10629,2025-07-07,CUST117,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United Kingdom,Credit Card,Completed
+ORD10630,2025-04-16,CUST262,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United Kingdom,Credit Card,Completed
+ORD10631,2025-09-19,CUST233,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,Germany,PayPal,Refunded
+ORD10632,2024-12-17,CUST288,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United Kingdom,UPI,Completed
+ORD10633,2025-02-14,CUST244,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,Net Banking,Completed
+ORD10634,2024-10-03,CUST221,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,India,Net Banking,Completed
+ORD10635,2024-06-02,CUST343,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,United Kingdom,Net Banking,Refunded
+ORD10636,2025-10-07,CUST365,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,Germany,UPI,Completed
+ORD10637,2025-08-04,CUST125,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,United States,Net Banking,Completed
+ORD10638,2025-05-02,CUST423,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Germany,UPI,Completed
+ORD10639,2025-07-24,CUST232,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Germany,Net Banking,Completed
+ORD10640,2025-10-27,CUST433,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Germany,UPI,Completed
+ORD10641,2025-05-14,CUST329,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD10642,2025-10-17,CUST273,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United States,Credit Card,Completed
+ORD10643,2024-08-21,CUST261,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10644,2025-03-31,CUST286,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10645,2024-01-24,CUST165,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10646,2025-02-10,CUST153,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Canada,Credit Card,Completed
+ORD10647,2025-02-10,CUST369,Tableau,Tableau Creator Annual,Analytics,840.0,5,4200.0,North America,Germany,Net Banking,Completed
+ORD10648,2025-02-03,CUST259,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD10649,2024-06-23,CUST115,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,United Kingdom,PayPal,Refunded
+ORD10650,2025-07-07,CUST240,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Canada,PayPal,Completed
+ORD10651,2025-10-13,CUST389,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10652,2024-04-01,CUST327,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,India,UPI,Completed
+ORD10653,2025-06-19,CUST170,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Australia,PayPal,Completed
+ORD10654,2025-05-03,CUST254,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,Canada,Net Banking,Completed
+ORD10655,2025-07-15,CUST292,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10656,2025-10-23,CUST300,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United States,PayPal,Completed
+ORD10657,2025-06-13,CUST414,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,Germany,UPI,Completed
+ORD10658,2024-03-11,CUST194,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,PayPal,Completed
+ORD10659,2025-09-29,CUST352,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United States,Credit Card,Completed
+ORD10660,2024-04-14,CUST245,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Australia,Credit Card,Completed
+ORD10661,2024-06-03,CUST108,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Germany,PayPal,Refunded
+ORD10662,2025-04-19,CUST117,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United States,UPI,Completed
+ORD10663,2024-03-14,CUST379,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10664,2024-09-11,CUST298,Tableau,Tableau Creator Annual,Analytics,840.0,5,4200.0,Europe,Australia,Credit Card,Completed
+ORD10665,2024-04-06,CUST367,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,Latin America,United Kingdom,UPI,Completed
+ORD10666,2024-06-11,CUST423,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Germany,PayPal,Completed
+ORD10667,2024-07-22,CUST285,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,United States,Net Banking,Completed
+ORD10668,2024-11-28,CUST108,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,North America,United Kingdom,Net Banking,Completed
+ORD10669,2024-02-13,CUST398,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Europe,Germany,Credit Card,Completed
+ORD10670,2025-05-26,CUST147,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United States,UPI,Completed
+ORD10671,2025-12-19,CUST375,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,India,UPI,Refunded
+ORD10672,2025-10-22,CUST278,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Europe,United States,PayPal,Completed
+ORD10673,2024-05-17,CUST229,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Canada,UPI,Completed
+ORD10674,2025-05-16,CUST198,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10675,2025-09-05,CUST384,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United Kingdom,UPI,Completed
+ORD10676,2025-07-08,CUST288,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Australia,Net Banking,Completed
+ORD10677,2025-09-26,CUST287,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10678,2025-07-05,CUST299,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,Net Banking,Completed
+ORD10679,2024-11-26,CUST310,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,Credit Card,Completed
+ORD10680,2024-05-12,CUST192,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,United Kingdom,Net Banking,Completed
+ORD10681,2025-08-07,CUST429,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Canada,UPI,Completed
+ORD10682,2024-08-14,CUST411,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Australia,PayPal,Completed
+ORD10683,2024-03-22,CUST340,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10684,2024-02-29,CUST416,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Germany,Credit Card,Completed
+ORD10685,2025-06-15,CUST150,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,India,Net Banking,Completed
+ORD10686,2024-09-11,CUST392,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Latin America,Australia,Credit Card,Completed
+ORD10687,2025-08-13,CUST284,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United States,Net Banking,Completed
+ORD10688,2025-07-17,CUST306,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Canada,PayPal,Completed
+ORD10689,2024-11-18,CUST382,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,Australia,PayPal,Completed
+ORD10690,2024-11-27,CUST412,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United Kingdom,UPI,Completed
+ORD10691,2025-04-08,CUST330,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Germany,Credit Card,Completed
+ORD10692,2024-11-05,CUST104,Datadog,Datadog Pro Annual,DevOps,450.0,5,2250.0,Europe,Germany,Credit Card,Completed
+ORD10693,2025-12-07,CUST242,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United States,Credit Card,Completed
+ORD10694,2024-06-08,CUST171,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,India,UPI,Completed
+ORD10695,2024-04-04,CUST393,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Australia,Credit Card,Completed
+ORD10696,2025-05-09,CUST189,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,Canada,UPI,Completed
+ORD10697,2025-08-13,CUST296,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10698,2024-05-03,CUST217,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,Australia,PayPal,Completed
+ORD10699,2025-06-20,CUST122,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Germany,Net Banking,Completed
+ORD10700,2025-11-20,CUST302,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,India,PayPal,Completed
+ORD10701,2025-02-07,CUST176,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,Credit Card,Completed
+ORD10702,2024-09-25,CUST144,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,India,PayPal,Completed
+ORD10703,2025-05-14,CUST303,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,India,Credit Card,Completed
+ORD10704,2025-03-16,CUST266,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,North America,United States,PayPal,Completed
+ORD10705,2024-12-22,CUST198,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Germany,Net Banking,Refunded
+ORD10706,2025-09-23,CUST327,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,India,Net Banking,Completed
+ORD10707,2024-06-08,CUST144,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,Canada,Net Banking,Completed
+ORD10708,2024-10-21,CUST108,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,Germany,PayPal,Completed
+ORD10709,2024-12-05,CUST208,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Canada,UPI,Completed
+ORD10710,2025-09-29,CUST173,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,United Kingdom,Credit Card,Completed
+ORD10711,2024-03-02,CUST246,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,United States,PayPal,Completed
+ORD10712,2024-01-09,CUST135,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,United States,Credit Card,Completed
+ORD10713,2025-10-26,CUST298,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,5,1600.0,North America,Germany,PayPal,Completed
+ORD10714,2025-06-28,CUST146,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Canada,Credit Card,Completed
+ORD10715,2025-06-26,CUST257,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United States,UPI,Completed
+ORD10716,2024-12-29,CUST421,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United States,UPI,Completed
+ORD10717,2024-01-31,CUST385,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD10718,2025-01-26,CUST367,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United Kingdom,Net Banking,Completed
+ORD10719,2025-03-12,CUST260,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,India,Net Banking,Completed
+ORD10720,2025-12-01,CUST204,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,United Kingdom,Net Banking,Completed
+ORD10721,2025-08-01,CUST181,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,India,UPI,Completed
+ORD10722,2024-05-29,CUST116,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,United Kingdom,UPI,Completed
+ORD10723,2025-10-14,CUST241,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,North America,India,Net Banking,Completed
+ORD10724,2025-09-18,CUST416,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Canada,Net Banking,Completed
+ORD10725,2024-01-27,CUST284,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,India,PayPal,Completed
+ORD10726,2025-01-17,CUST195,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,India,Net Banking,Completed
+ORD10727,2024-02-03,CUST310,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD10728,2024-07-26,CUST205,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Canada,PayPal,Completed
+ORD10729,2025-04-13,CUST227,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Canada,PayPal,Completed
+ORD10730,2025-02-07,CUST414,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,Credit Card,Completed
+ORD10731,2024-02-13,CUST226,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Canada,PayPal,Completed
+ORD10732,2025-10-07,CUST126,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Germany,UPI,Completed
+ORD10733,2025-03-08,CUST251,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,Europe,United Kingdom,PayPal,Completed
+ORD10734,2025-05-27,CUST158,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,United Kingdom,PayPal,Completed
+ORD10735,2024-01-26,CUST192,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,United Kingdom,Credit Card,Completed
+ORD10736,2025-12-09,CUST433,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,United States,Credit Card,Completed
+ORD10737,2025-10-11,CUST286,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,Net Banking,Completed
+ORD10738,2025-01-24,CUST123,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Canada,Net Banking,Completed
+ORD10739,2024-05-28,CUST192,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,Germany,UPI,Completed
+ORD10740,2025-04-01,CUST248,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,India,Credit Card,Completed
+ORD10741,2024-09-16,CUST107,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Canada,Credit Card,Completed
+ORD10742,2025-05-20,CUST222,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United Kingdom,PayPal,Completed
+ORD10743,2025-09-07,CUST408,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Canada,Net Banking,Completed
+ORD10744,2024-05-31,CUST129,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United States,UPI,Completed
+ORD10745,2024-03-30,CUST126,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,India,UPI,Completed
+ORD10746,2025-12-09,CUST405,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Europe,United Kingdom,UPI,Completed
+ORD10747,2024-04-05,CUST254,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,PayPal,Completed
+ORD10748,2024-03-07,CUST250,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10749,2025-12-13,CUST208,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,United Kingdom,UPI,Completed
+ORD10750,2024-11-20,CUST233,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,India,PayPal,Completed
+ORD10751,2025-10-09,CUST355,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Australia,UPI,Refunded
+ORD10752,2024-01-02,CUST161,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Australia,Net Banking,Completed
+ORD10753,2025-02-28,CUST312,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United States,Net Banking,Completed
+ORD10754,2024-09-17,CUST135,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United States,Credit Card,Completed
+ORD10755,2024-12-15,CUST303,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,India,Net Banking,Completed
+ORD10756,2024-12-12,CUST445,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,North America,Australia,Net Banking,Completed
+ORD10757,2025-10-04,CUST336,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10758,2024-02-27,CUST367,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10759,2025-12-02,CUST270,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10760,2024-02-01,CUST274,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,PayPal,Completed
+ORD10761,2024-04-29,CUST258,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,Germany,PayPal,Completed
+ORD10762,2024-08-31,CUST291,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,India,UPI,Completed
+ORD10763,2025-01-18,CUST120,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,United Kingdom,Credit Card,Completed
+ORD10764,2025-05-27,CUST179,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Australia,UPI,Completed
+ORD10765,2024-05-26,CUST151,Tableau,Tableau Creator Annual,Analytics,840.0,5,4200.0,Europe,India,Credit Card,Completed
+ORD10766,2025-06-18,CUST160,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Australia,Credit Card,Completed
+ORD10767,2024-02-17,CUST153,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,United States,UPI,Completed
+ORD10768,2024-08-02,CUST265,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Canada,UPI,Completed
+ORD10769,2025-11-18,CUST161,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,United States,Credit Card,Refunded
+ORD10770,2025-07-27,CUST364,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Canada,UPI,Completed
+ORD10771,2024-10-17,CUST394,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Canada,UPI,Completed
+ORD10772,2024-02-21,CUST167,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,United States,PayPal,Completed
+ORD10773,2025-03-12,CUST301,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,Canada,UPI,Completed
+ORD10774,2024-07-21,CUST444,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Canada,Net Banking,Completed
+ORD10775,2025-12-16,CUST340,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10776,2024-05-27,CUST416,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,Latin America,India,UPI,Completed
+ORD10777,2024-11-28,CUST333,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United States,UPI,Completed
+ORD10778,2024-06-23,CUST245,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Canada,Credit Card,Completed
+ORD10779,2024-04-19,CUST267,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10780,2025-02-27,CUST223,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United Kingdom,PayPal,Completed
+ORD10781,2024-08-01,CUST403,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,Canada,UPI,Completed
+ORD10782,2024-08-29,CUST189,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Latin America,United States,PayPal,Completed
+ORD10783,2024-04-09,CUST328,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United States,Credit Card,Completed
+ORD10784,2025-09-02,CUST295,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,United States,Net Banking,Completed
+ORD10785,2025-08-17,CUST426,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Australia,Net Banking,Completed
+ORD10786,2024-10-25,CUST300,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,India,UPI,Completed
+ORD10787,2025-11-26,CUST256,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,United States,Credit Card,Completed
+ORD10788,2025-06-06,CUST307,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United States,UPI,Completed
+ORD10789,2024-02-24,CUST101,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,United States,UPI,Completed
+ORD10790,2024-08-28,CUST322,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10791,2025-03-21,CUST380,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,India,Net Banking,Completed
+ORD10792,2025-01-03,CUST314,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,India,Credit Card,Completed
+ORD10793,2024-01-17,CUST174,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Latin America,India,Credit Card,Completed
+ORD10794,2025-03-01,CUST334,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,Canada,Net Banking,Completed
+ORD10795,2025-03-10,CUST383,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,India,Net Banking,Completed
+ORD10796,2024-01-08,CUST396,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Australia,UPI,Completed
+ORD10797,2025-07-13,CUST396,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Canada,PayPal,Completed
+ORD10798,2024-04-25,CUST398,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,North America,India,UPI,Completed
+ORD10799,2024-03-21,CUST368,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Australia,Credit Card,Completed
+ORD10800,2025-07-06,CUST397,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10801,2025-06-08,CUST341,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,Germany,UPI,Completed
+ORD10802,2024-02-06,CUST406,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,United States,PayPal,Completed
+ORD10803,2025-08-09,CUST127,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,North America,Germany,PayPal,Completed
+ORD10804,2025-06-01,CUST140,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,India,UPI,Completed
+ORD10805,2024-09-20,CUST108,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Canada,Net Banking,Completed
+ORD10806,2025-01-13,CUST190,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,United Kingdom,Net Banking,Completed
+ORD10807,2024-02-03,CUST276,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Europe,United Kingdom,PayPal,Completed
+ORD10808,2024-08-31,CUST439,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,India,UPI,Completed
+ORD10809,2024-09-27,CUST160,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,United Kingdom,UPI,Completed
+ORD10810,2025-06-29,CUST220,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,United Kingdom,UPI,Completed
+ORD10811,2025-03-21,CUST107,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,Latin America,United Kingdom,UPI,Refunded
+ORD10812,2025-11-30,CUST122,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10813,2024-09-30,CUST151,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10814,2025-08-25,CUST200,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Germany,Credit Card,Completed
+ORD10815,2024-03-10,CUST107,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Australia,PayPal,Completed
+ORD10816,2024-10-17,CUST229,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,United States,Net Banking,Refunded
+ORD10817,2025-10-15,CUST163,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,North America,Canada,Net Banking,Completed
+ORD10818,2025-10-25,CUST390,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,North America,Australia,Net Banking,Completed
+ORD10819,2025-04-23,CUST439,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10820,2024-03-16,CUST242,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Germany,Credit Card,Completed
+ORD10821,2024-09-28,CUST192,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,PayPal,Completed
+ORD10822,2025-05-18,CUST156,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,India,Credit Card,Completed
+ORD10823,2024-09-22,CUST153,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10824,2024-06-01,CUST435,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Australia,PayPal,Completed
+ORD10825,2025-12-17,CUST269,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United Kingdom,PayPal,Completed
+ORD10826,2024-03-12,CUST377,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United States,UPI,Completed
+ORD10827,2024-11-06,CUST306,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Germany,UPI,Completed
+ORD10828,2025-04-15,CUST249,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United Kingdom,Net Banking,Completed
+ORD10829,2025-02-03,CUST155,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Latin America,United States,PayPal,Completed
+ORD10830,2024-05-23,CUST119,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United Kingdom,PayPal,Completed
+ORD10831,2025-07-07,CUST430,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,Credit Card,Completed
+ORD10832,2024-12-11,CUST122,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Australia,Net Banking,Completed
+ORD10833,2024-08-26,CUST137,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,Australia,Credit Card,Completed
+ORD10834,2025-09-25,CUST124,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,United States,Net Banking,Completed
+ORD10835,2024-11-10,CUST150,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,United States,Credit Card,Completed
+ORD10836,2025-09-22,CUST213,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,Germany,PayPal,Completed
+ORD10837,2025-12-01,CUST395,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United States,Net Banking,Completed
+ORD10838,2024-05-03,CUST241,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,Australia,UPI,Completed
+ORD10839,2025-03-25,CUST225,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Australia,PayPal,Completed
+ORD10840,2024-01-17,CUST350,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United States,UPI,Completed
+ORD10841,2025-05-02,CUST165,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Canada,PayPal,Completed
+ORD10842,2024-06-27,CUST413,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Australia,PayPal,Completed
+ORD10843,2024-03-31,CUST422,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10844,2024-07-15,CUST161,Adobe,Adobe Creative Cloud All Apps,Design,600.0,5,3000.0,Asia-Pacific,Canada,Net Banking,Completed
+ORD10845,2025-10-03,CUST438,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United States,Net Banking,Completed
+ORD10846,2025-04-30,CUST355,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,United States,UPI,Completed
+ORD10847,2025-03-21,CUST229,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,Credit Card,Completed
+ORD10848,2025-07-04,CUST191,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,Canada,Credit Card,Completed
+ORD10849,2024-08-28,CUST328,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,India,UPI,Completed
+ORD10850,2024-04-22,CUST267,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,India,PayPal,Completed
+ORD10851,2024-03-16,CUST342,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,India,Net Banking,Completed
+ORD10852,2025-04-10,CUST192,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Australia,Net Banking,Completed
+ORD10853,2024-10-03,CUST204,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Germany,Net Banking,Completed
+ORD10854,2025-04-21,CUST335,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,UPI,Completed
+ORD10855,2025-10-15,CUST414,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United States,PayPal,Completed
+ORD10856,2025-05-15,CUST211,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Germany,Credit Card,Completed
+ORD10857,2024-09-09,CUST227,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Canada,Net Banking,Completed
+ORD10858,2024-01-06,CUST314,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,Credit Card,Completed
+ORD10859,2025-02-07,CUST346,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,North America,United Kingdom,PayPal,Completed
+ORD10860,2025-07-25,CUST107,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,India,UPI,Completed
+ORD10861,2025-10-25,CUST147,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,India,PayPal,Completed
+ORD10862,2025-08-20,CUST113,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Australia,PayPal,Completed
+ORD10863,2025-01-14,CUST421,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,Australia,Credit Card,Completed
+ORD10864,2025-12-08,CUST271,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Germany,Net Banking,Completed
+ORD10865,2024-03-23,CUST418,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,Canada,UPI,Completed
+ORD10866,2024-04-23,CUST297,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Germany,UPI,Completed
+ORD10867,2025-07-26,CUST135,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Europe,India,UPI,Completed
+ORD10868,2024-04-26,CUST433,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Australia,Net Banking,Completed
+ORD10869,2024-09-30,CUST358,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United States,UPI,Completed
+ORD10870,2025-05-12,CUST357,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,Australia,UPI,Completed
+ORD10871,2025-01-11,CUST445,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,India,PayPal,Completed
+ORD10872,2025-02-04,CUST192,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,North America,United States,Net Banking,Completed
+ORD10873,2025-12-14,CUST176,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,Credit Card,Completed
+ORD10874,2025-11-29,CUST378,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United Kingdom,Credit Card,Completed
+ORD10875,2024-03-05,CUST112,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10876,2024-11-30,CUST349,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,United Kingdom,UPI,Completed
+ORD10877,2024-11-09,CUST188,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Germany,UPI,Completed
+ORD10878,2024-02-18,CUST176,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Canada,Net Banking,Completed
+ORD10879,2024-10-19,CUST194,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,India,Net Banking,Completed
+ORD10880,2024-11-20,CUST395,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,India,Net Banking,Completed
+ORD10881,2024-02-05,CUST441,Datadog,Datadog Pro Annual,DevOps,450.0,5,2250.0,Europe,Germany,PayPal,Completed
+ORD10882,2024-06-15,CUST374,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,United Kingdom,PayPal,Completed
+ORD10883,2025-04-14,CUST264,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Australia,UPI,Completed
+ORD10884,2024-10-23,CUST394,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Germany,Credit Card,Completed
+ORD10885,2024-02-11,CUST172,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,United States,PayPal,Completed
+ORD10886,2024-08-13,CUST329,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Canada,Net Banking,Completed
+ORD10887,2024-08-15,CUST243,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Australia,Credit Card,Refunded
+ORD10888,2025-02-07,CUST200,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Australia,UPI,Completed
+ORD10889,2025-03-13,CUST290,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,UPI,Completed
+ORD10890,2025-04-01,CUST388,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,PayPal,Completed
+ORD10891,2024-10-22,CUST184,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,Australia,PayPal,Completed
+ORD10892,2025-08-24,CUST407,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10893,2025-08-27,CUST293,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD10894,2025-08-04,CUST171,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Germany,PayPal,Completed
+ORD10895,2024-11-05,CUST400,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,India,Credit Card,Completed
+ORD10896,2024-06-06,CUST235,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,Latin America,United States,UPI,Completed
+ORD10897,2025-05-18,CUST431,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10898,2025-01-05,CUST398,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Australia,PayPal,Refunded
+ORD10899,2024-05-02,CUST292,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,North America,Germany,Net Banking,Completed
+ORD10900,2024-05-29,CUST264,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Germany,Net Banking,Completed
+ORD10901,2025-01-04,CUST315,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Asia-Pacific,United States,UPI,Completed
+ORD10902,2025-10-16,CUST140,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United States,Net Banking,Completed
+ORD10903,2024-11-19,CUST255,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Asia-Pacific,United States,UPI,Completed
+ORD10904,2024-01-14,CUST171,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United Kingdom,UPI,Completed
+ORD10905,2024-06-15,CUST153,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,India,Credit Card,Completed
+ORD10906,2024-03-19,CUST160,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,United Kingdom,UPI,Completed
+ORD10907,2025-01-06,CUST172,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,India,UPI,Completed
+ORD10908,2024-05-01,CUST214,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,Australia,Net Banking,Completed
+ORD10909,2024-08-02,CUST167,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,United States,Credit Card,Completed
+ORD10910,2025-03-17,CUST122,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,United Kingdom,Credit Card,Completed
+ORD10911,2024-02-14,CUST134,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,United States,Net Banking,Completed
+ORD10912,2024-07-23,CUST195,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,India,UPI,Completed
+ORD10913,2024-12-22,CUST281,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,Canada,Credit Card,Completed
+ORD10914,2025-08-15,CUST108,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Germany,Net Banking,Completed
+ORD10915,2025-07-04,CUST103,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Canada,PayPal,Completed
+ORD10916,2025-08-26,CUST195,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,India,UPI,Refunded
+ORD10917,2025-03-10,CUST210,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Germany,Credit Card,Completed
+ORD10918,2025-06-16,CUST170,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10919,2025-05-20,CUST160,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10920,2025-02-21,CUST249,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,United Kingdom,UPI,Completed
+ORD10921,2025-11-21,CUST352,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Canada,Credit Card,Completed
+ORD10922,2025-02-08,CUST306,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Australia,Net Banking,Completed
+ORD10923,2024-07-22,CUST274,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United States,Net Banking,Completed
+ORD10924,2025-05-26,CUST243,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10925,2025-11-13,CUST409,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,5,1400.0,Asia-Pacific,India,PayPal,Completed
+ORD10926,2024-09-13,CUST351,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,United States,Credit Card,Completed
+ORD10927,2024-03-10,CUST356,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United Kingdom,UPI,Completed
+ORD10928,2025-09-28,CUST420,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10929,2025-05-24,CUST352,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Canada,Credit Card,Refunded
+ORD10930,2024-02-02,CUST321,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10931,2024-02-03,CUST191,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD10932,2024-05-17,CUST260,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Canada,PayPal,Completed
+ORD10933,2025-12-02,CUST377,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Canada,Credit Card,Completed
+ORD10934,2025-05-21,CUST403,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,UPI,Completed
+ORD10935,2025-08-27,CUST124,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10936,2025-10-02,CUST275,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10937,2025-11-08,CUST226,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD10938,2024-03-08,CUST257,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Canada,UPI,Completed
+ORD10939,2025-11-04,CUST317,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Germany,Credit Card,Completed
+ORD10940,2025-08-25,CUST112,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Germany,Credit Card,Completed
+ORD10941,2024-04-12,CUST446,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,India,UPI,Completed
+ORD10942,2025-03-22,CUST204,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Canada,Net Banking,Completed
+ORD10943,2024-02-18,CUST253,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Canada,Credit Card,Completed
+ORD10944,2025-08-15,CUST149,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Canada,PayPal,Completed
+ORD10945,2024-12-21,CUST140,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10946,2025-02-15,CUST229,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,United States,Net Banking,Completed
+ORD10947,2024-08-06,CUST439,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,Germany,PayPal,Completed
+ORD10948,2025-10-03,CUST131,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,India,Net Banking,Completed
+ORD10949,2025-12-02,CUST254,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10950,2024-09-30,CUST247,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United Kingdom,Net Banking,Completed
+ORD10951,2024-07-15,CUST115,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10952,2025-03-22,CUST317,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Europe,India,UPI,Completed
+ORD10953,2024-09-21,CUST243,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Australia,PayPal,Completed
+ORD10954,2024-02-26,CUST143,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,United Kingdom,UPI,Completed
+ORD10955,2024-04-02,CUST304,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Europe,India,Credit Card,Completed
+ORD10956,2025-05-27,CUST162,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10957,2024-05-05,CUST261,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,Australia,Net Banking,Completed
+ORD10958,2024-08-11,CUST174,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD10959,2025-08-26,CUST129,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Germany,PayPal,Completed
+ORD10960,2024-09-09,CUST243,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Asia-Pacific,United Kingdom,UPI,Completed
+ORD10961,2024-01-22,CUST431,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Australia,Net Banking,Completed
+ORD10962,2025-01-28,CUST259,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD10963,2024-08-30,CUST327,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Germany,UPI,Completed
+ORD10964,2024-08-29,CUST253,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,United Kingdom,UPI,Completed
+ORD10965,2025-10-21,CUST309,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,United Kingdom,PayPal,Completed
+ORD10966,2024-12-06,CUST317,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Australia,UPI,Completed
+ORD10967,2024-12-26,CUST316,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD10968,2025-10-18,CUST429,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United States,PayPal,Completed
+ORD10969,2024-11-08,CUST261,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,India,Net Banking,Completed
+ORD10970,2025-12-03,CUST311,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Latin America,United Kingdom,Net Banking,Completed
+ORD10971,2025-12-04,CUST404,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,India,Credit Card,Completed
+ORD10972,2024-07-05,CUST302,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Europe,United States,Credit Card,Completed
+ORD10973,2025-10-24,CUST414,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United Kingdom,Net Banking,Completed
+ORD10974,2024-06-21,CUST126,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,Credit Card,Refunded
+ORD10975,2024-06-23,CUST391,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,United Kingdom,PayPal,Completed
+ORD10976,2024-07-27,CUST198,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Asia-Pacific,Germany,PayPal,Completed
+ORD10977,2025-03-17,CUST206,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD10978,2025-02-22,CUST175,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,India,PayPal,Completed
+ORD10979,2025-01-13,CUST399,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,United States,PayPal,Completed
+ORD10980,2024-11-27,CUST304,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,Australia,PayPal,Completed
+ORD10981,2024-09-19,CUST138,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Germany,Net Banking,Completed
+ORD10982,2024-12-28,CUST411,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,North America,United States,UPI,Completed
+ORD10983,2025-01-25,CUST255,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Canada,Credit Card,Completed
+ORD10984,2024-09-23,CUST187,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD10985,2025-06-27,CUST322,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,United States,Net Banking,Completed
+ORD10986,2024-10-14,CUST285,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Canada,UPI,Completed
+ORD10987,2025-03-22,CUST185,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,India,PayPal,Completed
+ORD10988,2024-06-01,CUST128,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Germany,Net Banking,Completed
+ORD10989,2025-03-22,CUST160,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Australia,PayPal,Completed
+ORD10990,2024-04-25,CUST176,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,Germany,Net Banking,Completed
+ORD10991,2025-06-04,CUST240,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Europe,Canada,Credit Card,Completed
+ORD10992,2025-08-07,CUST193,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Europe,United Kingdom,Credit Card,Completed
+ORD10993,2024-01-27,CUST246,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,North America,United Kingdom,UPI,Completed
+ORD10994,2024-04-18,CUST266,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Australia,PayPal,Completed
+ORD10995,2024-10-02,CUST405,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Australia,PayPal,Completed
+ORD10996,2025-08-05,CUST167,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD10997,2025-07-14,CUST409,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,India,Net Banking,Refunded
+ORD10998,2025-02-12,CUST146,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,United Kingdom,PayPal,Completed
+ORD10999,2025-10-31,CUST179,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,UPI,Completed
+ORD11000,2025-09-09,CUST168,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Asia-Pacific,Canada,Net Banking,Completed
+ORD11001,2025-02-01,CUST344,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,PayPal,Completed
+ORD11002,2025-09-20,CUST196,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,United States,UPI,Refunded
+ORD11003,2025-11-23,CUST215,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,United Kingdom,Credit Card,Completed
+ORD11004,2025-03-23,CUST141,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,India,UPI,Completed
+ORD11005,2025-06-19,CUST319,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,United States,Credit Card,Completed
+ORD11006,2025-02-26,CUST149,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,Germany,UPI,Completed
+ORD11007,2025-05-30,CUST109,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,India,Net Banking,Completed
+ORD11008,2024-02-16,CUST143,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Asia-Pacific,Germany,PayPal,Completed
+ORD11009,2025-04-05,CUST420,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,India,Net Banking,Completed
+ORD11010,2025-09-10,CUST233,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Latin America,Canada,Credit Card,Completed
+ORD11011,2024-04-29,CUST107,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,Australia,PayPal,Completed
+ORD11012,2025-09-08,CUST350,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Australia,PayPal,Completed
+ORD11013,2024-03-30,CUST165,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,United States,Net Banking,Completed
+ORD11014,2024-08-02,CUST347,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United Kingdom,Net Banking,Completed
+ORD11015,2025-04-19,CUST176,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,India,Net Banking,Completed
+ORD11016,2025-03-31,CUST349,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Canada,Net Banking,Completed
+ORD11017,2025-08-06,CUST301,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Australia,PayPal,Refunded
+ORD11018,2025-05-22,CUST397,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,United States,PayPal,Completed
+ORD11019,2025-06-09,CUST403,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,India,Credit Card,Completed
+ORD11020,2025-03-08,CUST396,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Australia,PayPal,Completed
+ORD11021,2024-04-29,CUST354,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD11022,2024-10-21,CUST199,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,Net Banking,Completed
+ORD11023,2025-12-02,CUST274,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,India,UPI,Completed
+ORD11024,2025-02-03,CUST314,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Asia-Pacific,United Kingdom,Net Banking,Completed
+ORD11025,2024-10-16,CUST145,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,India,Net Banking,Completed
+ORD11026,2024-04-13,CUST313,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,Credit Card,Refunded
+ORD11027,2025-01-02,CUST234,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,Canada,Credit Card,Completed
+ORD11028,2024-12-11,CUST321,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Canada,Net Banking,Completed
+ORD11029,2024-12-14,CUST282,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,India,Credit Card,Completed
+ORD11030,2025-03-24,CUST335,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,North America,Canada,Credit Card,Completed
+ORD11031,2024-02-12,CUST360,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,India,UPI,Completed
+ORD11032,2024-10-26,CUST327,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,India,UPI,Completed
+ORD11033,2024-05-21,CUST163,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,United States,Net Banking,Completed
+ORD11034,2025-04-30,CUST275,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Germany,UPI,Completed
+ORD11035,2025-02-28,CUST285,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,Canada,PayPal,Completed
+ORD11036,2024-05-21,CUST320,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Latin America,Canada,UPI,Completed
+ORD11037,2025-03-29,CUST175,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,United States,UPI,Completed
+ORD11038,2024-06-17,CUST323,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Australia,Net Banking,Completed
+ORD11039,2024-02-29,CUST424,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD11040,2025-12-18,CUST384,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD11041,2025-06-24,CUST413,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Latin America,Australia,Net Banking,Completed
+ORD11042,2025-10-01,CUST417,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Australia,PayPal,Completed
+ORD11043,2024-11-04,CUST144,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,Net Banking,Completed
+ORD11044,2025-07-07,CUST246,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Canada,UPI,Completed
+ORD11045,2024-06-12,CUST112,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Asia-Pacific,India,UPI,Completed
+ORD11046,2025-06-01,CUST157,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,Germany,UPI,Completed
+ORD11047,2025-10-28,CUST164,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,United Kingdom,UPI,Refunded
+ORD11048,2025-08-18,CUST390,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,Germany,UPI,Completed
+ORD11049,2025-08-09,CUST445,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,United States,UPI,Completed
+ORD11050,2024-07-16,CUST285,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United Kingdom,Credit Card,Completed
+ORD11051,2025-03-11,CUST167,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Germany,PayPal,Completed
+ORD11052,2025-06-15,CUST303,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Australia,PayPal,Refunded
+ORD11053,2025-12-06,CUST351,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,Europe,India,Net Banking,Completed
+ORD11054,2025-04-13,CUST167,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Australia,Net Banking,Completed
+ORD11055,2024-02-03,CUST181,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Canada,PayPal,Completed
+ORD11056,2025-01-13,CUST393,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United States,UPI,Completed
+ORD11057,2025-01-18,CUST256,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,India,PayPal,Completed
+ORD11058,2024-11-08,CUST246,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United States,Credit Card,Completed
+ORD11059,2024-03-10,CUST123,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Canada,PayPal,Completed
+ORD11060,2025-01-21,CUST344,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,Europe,India,PayPal,Completed
+ORD11061,2025-11-14,CUST330,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,United States,PayPal,Completed
+ORD11062,2025-02-08,CUST274,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Australia,UPI,Completed
+ORD11063,2024-06-18,CUST113,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Canada,Credit Card,Completed
+ORD11064,2024-03-28,CUST199,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Canada,Net Banking,Completed
+ORD11065,2025-05-29,CUST110,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,United States,UPI,Completed
+ORD11066,2024-09-08,CUST397,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,United Kingdom,Credit Card,Completed
+ORD11067,2024-01-24,CUST275,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Canada,UPI,Completed
+ORD11068,2024-04-03,CUST159,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,India,Net Banking,Completed
+ORD11069,2024-04-01,CUST179,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,Europe,United States,UPI,Completed
+ORD11070,2024-02-29,CUST253,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,United Kingdom,UPI,Completed
+ORD11071,2024-05-03,CUST127,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United Kingdom,PayPal,Completed
+ORD11072,2024-10-02,CUST132,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,PayPal,Completed
+ORD11073,2025-10-10,CUST220,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,India,Net Banking,Completed
+ORD11074,2025-02-20,CUST329,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,India,UPI,Completed
+ORD11075,2024-06-21,CUST226,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,Latin America,United States,Credit Card,Completed
+ORD11076,2025-09-27,CUST249,AI Tools,ChatGPT Team Annual,AI Tools,300.0,5,1500.0,North America,United States,PayPal,Completed
+ORD11077,2024-09-13,CUST449,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,5,1400.0,Europe,Canada,UPI,Completed
+ORD11078,2025-06-30,CUST389,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,Credit Card,Completed
+ORD11079,2025-07-23,CUST244,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Australia,UPI,Completed
+ORD11080,2025-04-08,CUST240,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Asia-Pacific,Germany,Net Banking,Completed
+ORD11081,2025-09-05,CUST269,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,Europe,Australia,Credit Card,Completed
+ORD11082,2024-01-05,CUST105,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United Kingdom,Credit Card,Completed
+ORD11083,2025-10-26,CUST434,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,Credit Card,Completed
+ORD11084,2025-01-20,CUST408,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,United States,PayPal,Completed
+ORD11085,2024-07-16,CUST328,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Germany,UPI,Completed
+ORD11086,2025-09-20,CUST421,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Europe,India,PayPal,Refunded
+ORD11087,2024-02-07,CUST244,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,3,840.0,Europe,United States,Net Banking,Refunded
+ORD11088,2025-10-15,CUST303,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Latin America,India,Net Banking,Completed
+ORD11089,2025-08-02,CUST445,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,United States,Net Banking,Completed
+ORD11090,2024-05-10,CUST233,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,India,Credit Card,Refunded
+ORD11091,2025-12-10,CUST448,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United States,PayPal,Completed
+ORD11092,2025-10-27,CUST127,Tableau,Tableau Creator Annual,Analytics,840.0,3,2520.0,Latin America,United Kingdom,UPI,Completed
+ORD11093,2025-06-14,CUST339,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Australia,Net Banking,Completed
+ORD11094,2025-03-06,CUST373,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,India,UPI,Completed
+ORD11095,2025-08-08,CUST113,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United States,Net Banking,Completed
+ORD11096,2024-12-03,CUST260,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,United States,PayPal,Completed
+ORD11097,2024-01-25,CUST404,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Germany,Net Banking,Completed
+ORD11098,2024-09-01,CUST275,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,Canada,Net Banking,Completed
+ORD11099,2025-09-06,CUST418,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,Canada,Credit Card,Completed
+ORD11100,2024-03-03,CUST118,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,India,Credit Card,Completed
+ORD11101,2025-03-28,CUST129,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,Credit Card,Completed
+ORD11102,2025-07-26,CUST127,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,United States,PayPal,Completed
+ORD11103,2025-09-05,CUST438,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United Kingdom,PayPal,Completed
+ORD11104,2025-09-26,CUST152,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,United Kingdom,UPI,Completed
+ORD11105,2024-04-20,CUST153,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Canada,Net Banking,Completed
+ORD11106,2024-05-09,CUST427,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United Kingdom,PayPal,Completed
+ORD11107,2024-05-20,CUST123,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Canada,UPI,Completed
+ORD11108,2025-07-08,CUST175,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,Germany,UPI,Refunded
+ORD11109,2025-06-14,CUST401,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,India,Credit Card,Completed
+ORD11110,2024-07-19,CUST203,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,North America,Germany,Net Banking,Completed
+ORD11111,2025-12-12,CUST340,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,Canada,UPI,Completed
+ORD11112,2024-06-15,CUST154,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,United Kingdom,Net Banking,Completed
+ORD11113,2025-10-16,CUST215,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,India,PayPal,Completed
+ORD11114,2024-12-05,CUST293,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,Germany,Credit Card,Completed
+ORD11115,2024-01-31,CUST385,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,India,UPI,Completed
+ORD11116,2024-01-31,CUST202,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,Germany,Net Banking,Completed
+ORD11117,2025-07-21,CUST226,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,Germany,Credit Card,Completed
+ORD11118,2025-11-24,CUST171,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,North America,Germany,Net Banking,Completed
+ORD11119,2024-09-02,CUST290,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Canada,PayPal,Completed
+ORD11120,2024-03-07,CUST161,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,India,Net Banking,Completed
+ORD11121,2025-12-12,CUST292,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United States,Net Banking,Completed
+ORD11122,2024-10-28,CUST177,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,India,PayPal,Completed
+ORD11123,2024-03-24,CUST341,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,North America,India,PayPal,Completed
+ORD11124,2025-10-22,CUST361,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,India,UPI,Completed
+ORD11125,2025-06-22,CUST348,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Latin America,Germany,PayPal,Completed
+ORD11126,2025-08-20,CUST433,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Europe,United Kingdom,Net Banking,Completed
+ORD11127,2024-11-09,CUST318,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD11128,2024-03-27,CUST252,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,Credit Card,Completed
+ORD11129,2025-09-28,CUST273,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United Kingdom,UPI,Completed
+ORD11130,2024-11-20,CUST240,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,India,UPI,Completed
+ORD11131,2025-01-02,CUST143,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,Germany,Net Banking,Completed
+ORD11132,2024-03-14,CUST285,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,India,UPI,Completed
+ORD11133,2025-11-30,CUST241,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,Australia,UPI,Completed
+ORD11134,2024-11-02,CUST245,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,United Kingdom,Credit Card,Completed
+ORD11135,2025-06-08,CUST177,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Australia,Net Banking,Completed
+ORD11136,2025-06-12,CUST401,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,Australia,PayPal,Completed
+ORD11137,2024-03-28,CUST261,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,India,PayPal,Completed
+ORD11138,2025-07-25,CUST116,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Germany,Credit Card,Completed
+ORD11139,2025-11-05,CUST282,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Australia,PayPal,Completed
+ORD11140,2025-12-08,CUST376,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,Canada,Credit Card,Completed
+ORD11141,2024-06-06,CUST270,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United Kingdom,Net Banking,Completed
+ORD11142,2024-03-06,CUST374,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Germany,PayPal,Completed
+ORD11143,2024-11-07,CUST148,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United States,PayPal,Completed
+ORD11144,2024-07-22,CUST136,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Germany,Credit Card,Completed
+ORD11145,2025-01-12,CUST366,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,United Kingdom,Net Banking,Refunded
+ORD11146,2024-05-12,CUST375,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,United Kingdom,Net Banking,Completed
+ORD11147,2024-07-29,CUST259,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Latin America,India,UPI,Completed
+ORD11148,2025-05-29,CUST335,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United Kingdom,Credit Card,Completed
+ORD11149,2025-09-11,CUST227,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,United Kingdom,PayPal,Completed
+ORD11150,2024-04-03,CUST248,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Latin America,Germany,UPI,Completed
+ORD11151,2024-06-28,CUST313,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United Kingdom,PayPal,Completed
+ORD11152,2024-07-06,CUST392,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,India,Net Banking,Completed
+ORD11153,2025-10-05,CUST376,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,North America,Australia,Net Banking,Completed
+ORD11154,2025-02-25,CUST384,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,5,750.0,North America,United States,UPI,Completed
+ORD11155,2024-06-17,CUST230,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,United States,Credit Card,Completed
+ORD11156,2025-11-22,CUST337,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,India,PayPal,Completed
+ORD11157,2024-09-13,CUST159,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Asia-Pacific,Australia,PayPal,Completed
+ORD11158,2024-03-10,CUST143,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,India,PayPal,Completed
+ORD11159,2024-06-14,CUST188,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,India,UPI,Completed
+ORD11160,2025-02-04,CUST187,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,North America,Australia,UPI,Completed
+ORD11161,2025-01-01,CUST192,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,United Kingdom,Credit Card,Completed
+ORD11162,2025-06-19,CUST429,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,United Kingdom,UPI,Completed
+ORD11163,2025-09-04,CUST103,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,India,UPI,Completed
+ORD11164,2024-07-23,CUST147,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Germany,Net Banking,Completed
+ORD11165,2024-03-05,CUST213,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,Australia,Net Banking,Completed
+ORD11166,2025-06-08,CUST156,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Europe,Canada,Net Banking,Completed
+ORD11167,2025-02-08,CUST320,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Germany,UPI,Completed
+ORD11168,2025-02-15,CUST435,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,United Kingdom,Net Banking,Completed
+ORD11169,2024-10-12,CUST433,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,India,PayPal,Completed
+ORD11170,2025-09-05,CUST356,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,2,300.0,Europe,Germany,Credit Card,Completed
+ORD11171,2025-10-08,CUST299,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,Europe,Germany,Net Banking,Completed
+ORD11172,2025-12-05,CUST263,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,North America,Germany,Credit Card,Completed
+ORD11173,2025-08-22,CUST330,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Europe,Canada,Credit Card,Completed
+ORD11174,2025-09-23,CUST164,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,India,Credit Card,Completed
+ORD11175,2025-01-18,CUST356,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,India,Credit Card,Completed
+ORD11176,2025-09-04,CUST328,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,Germany,UPI,Completed
+ORD11177,2024-02-10,CUST367,Tableau,Tableau Creator Annual,Analytics,840.0,5,4200.0,Asia-Pacific,United States,Net Banking,Completed
+ORD11178,2024-12-05,CUST276,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,Australia,Net Banking,Completed
+ORD11179,2025-12-13,CUST214,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Asia-Pacific,India,PayPal,Completed
+ORD11180,2024-03-07,CUST352,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,3,450.0,North America,Australia,Net Banking,Completed
+ORD11181,2024-05-08,CUST147,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,India,Credit Card,Completed
+ORD11182,2025-04-23,CUST260,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,2,640.0,Europe,United Kingdom,Net Banking,Completed
+ORD11183,2024-11-06,CUST247,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Germany,PayPal,Completed
+ORD11184,2025-01-03,CUST304,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,United Kingdom,PayPal,Completed
+ORD11185,2025-05-08,CUST111,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,Germany,Net Banking,Completed
+ORD11186,2024-06-28,CUST232,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Latin America,Germany,PayPal,Completed
+ORD11187,2025-05-07,CUST137,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,India,Net Banking,Completed
+ORD11188,2024-01-05,CUST107,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD11189,2025-02-08,CUST292,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,United Kingdom,Credit Card,Refunded
+ORD11190,2024-05-07,CUST298,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Latin America,Germany,UPI,Completed
+ORD11191,2025-05-15,CUST426,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,North America,Australia,PayPal,Completed
+ORD11192,2024-09-09,CUST225,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Australia,Credit Card,Completed
+ORD11193,2025-10-22,CUST176,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Europe,Germany,Net Banking,Completed
+ORD11194,2025-11-09,CUST183,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Australia,PayPal,Completed
+ORD11195,2025-08-23,CUST142,Adobe,Adobe Creative Cloud All Apps,Design,600.0,3,1800.0,Latin America,India,PayPal,Completed
+ORD11196,2024-11-05,CUST357,Adobe,Adobe Creative Cloud All Apps,Design,600.0,2,1200.0,Latin America,Canada,UPI,Completed
+ORD11197,2024-04-01,CUST156,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Asia-Pacific,India,UPI,Completed
+ORD11198,2025-02-11,CUST258,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,5,750.0,Latin America,United States,Credit Card,Completed
+ORD11199,2025-12-14,CUST314,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Asia-Pacific,Australia,PayPal,Completed
+ORD11200,2025-01-18,CUST196,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,India,Credit Card,Completed
+ORD11201,2024-08-05,CUST196,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,India,UPI,Refunded
+ORD11202,2025-02-22,CUST326,AI Tools,ChatGPT Team Annual,AI Tools,300.0,3,900.0,North America,Australia,Net Banking,Completed
+ORD11203,2024-03-28,CUST294,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United States,Net Banking,Completed
+ORD11204,2025-11-19,CUST152,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Australia,Credit Card,Completed
+ORD11205,2025-06-18,CUST104,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,United Kingdom,PayPal,Completed
+ORD11206,2025-09-10,CUST320,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Asia-Pacific,Germany,Net Banking,Completed
+ORD11207,2025-11-12,CUST305,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Germany,Credit Card,Completed
+ORD11208,2025-12-16,CUST306,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,United States,Credit Card,Completed
+ORD11209,2024-10-13,CUST228,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,Canada,PayPal,Completed
+ORD11210,2024-01-04,CUST427,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United States,UPI,Completed
+ORD11211,2024-08-27,CUST411,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Germany,PayPal,Completed
+ORD11212,2025-05-02,CUST438,Tableau,Tableau Creator Annual,Analytics,840.0,2,1680.0,North America,Australia,PayPal,Completed
+ORD11213,2024-07-18,CUST174,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,India,PayPal,Completed
+ORD11214,2024-11-04,CUST445,Adobe,Adobe Creative Cloud All Apps,Design,600.0,5,3000.0,Latin America,India,PayPal,Refunded
+ORD11215,2025-05-08,CUST440,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,India,Credit Card,Completed
+ORD11216,2024-01-30,CUST183,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,Asia-Pacific,India,UPI,Completed
+ORD11217,2025-11-17,CUST164,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Latin America,United States,UPI,Completed
+ORD11218,2025-08-12,CUST408,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Latin America,Australia,PayPal,Completed
+ORD11219,2025-07-29,CUST324,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Asia-Pacific,United States,UPI,Completed
+ORD11220,2024-04-01,CUST275,AI Tools,ChatGPT Team Annual,AI Tools,300.0,1,300.0,Europe,Australia,Credit Card,Completed
+ORD11221,2024-05-10,CUST261,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,North America,Germany,Credit Card,Completed
+ORD11222,2024-07-13,CUST299,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Australia,Net Banking,Completed
+ORD11223,2025-09-08,CUST403,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,Canada,PayPal,Completed
+ORD11224,2024-10-30,CUST213,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,2,560.0,Europe,Canada,UPI,Completed
+ORD11225,2025-11-12,CUST118,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,North America,Germany,PayPal,Completed
+ORD11226,2024-08-08,CUST354,Datadog,Datadog Pro Annual,DevOps,450.0,2,900.0,Latin America,United States,UPI,Completed
+ORD11227,2024-08-03,CUST216,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,Europe,United Kingdom,PayPal,Completed
+ORD11228,2025-11-06,CUST182,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United Kingdom,PayPal,Refunded
+ORD11229,2025-02-04,CUST301,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,Germany,Net Banking,Completed
+ORD11230,2025-07-15,CUST302,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Australia,UPI,Completed
+ORD11231,2024-06-16,CUST396,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Germany,Net Banking,Completed
+ORD11232,2024-07-19,CUST434,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,North America,Australia,Net Banking,Completed
+ORD11233,2025-03-13,CUST448,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,North America,United States,UPI,Refunded
+ORD11234,2024-07-02,CUST127,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,5,750.0,Asia-Pacific,Canada,PayPal,Refunded
+ORD11235,2025-10-04,CUST307,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Europe,United Kingdom,PayPal,Completed
+ORD11236,2025-09-02,CUST189,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,United Kingdom,PayPal,Completed
+ORD11237,2025-10-30,CUST328,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,North America,United States,Credit Card,Completed
+ORD11238,2025-11-15,CUST361,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Latin America,Germany,Credit Card,Completed
+ORD11239,2024-07-04,CUST297,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,5,1400.0,Latin America,Germany,Net Banking,Completed
+ORD11240,2024-03-06,CUST376,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,North America,United Kingdom,PayPal,Completed
+ORD11241,2025-08-21,CUST376,AI Tools,ChatGPT Team Annual,AI Tools,300.0,2,600.0,North America,India,Credit Card,Completed
+ORD11242,2025-09-05,CUST193,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,United States,Credit Card,Completed
+ORD11243,2024-07-30,CUST435,Microsoft,Azure AI Studio Standard,Cloud & AI,320.0,1,320.0,Asia-Pacific,United States,Credit Card,Refunded
+ORD11244,2025-06-02,CUST253,Datadog,Datadog Pro Annual,DevOps,450.0,3,1350.0,Europe,United Kingdom,Credit Card,Completed
+ORD11245,2024-02-17,CUST366,Tableau,Tableau Creator Annual,Analytics,840.0,1,840.0,Latin America,India,PayPal,Completed
+ORD11246,2025-06-19,CUST281,Adobe,Adobe Creative Cloud All Apps,Design,600.0,1,600.0,Europe,Australia,Credit Card,Completed
+ORD11247,2024-02-15,CUST222,Microsoft,Microsoft 365 Business Standard,Productivity,150.0,1,150.0,Asia-Pacific,India,Net Banking,Completed
+ORD11248,2024-08-09,CUST403,Datadog,Datadog Pro Annual,DevOps,450.0,1,450.0,Latin America,United States,UPI,Completed
+ORD11249,2025-10-27,CUST184,JetBrains,JetBrains All Products Pack,Developer Tools,280.0,1,280.0,Asia-Pacific,Australia,PayPal,Completed
